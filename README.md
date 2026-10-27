@@ -1,10 +1,6 @@
-<!-- Professional GitHub README for Getachew Ekubay -->
-
-<div align="center">
-
 # Hi, I'm Getachew Ekubay 👋
 
-### AI Software Engineer · Full-Stack Developer · AI/ML Educator
+### AI/ML Engineer · Full-Stack Developer · Technology Educator
 
 I build practical AI-powered products, thoughtful web experiences, and reliable backend systems — and help make technology accessible to new learners.
 
@@ -14,7 +10,6 @@ I build practical AI-powered products, thoughtful web experiences, and reliable 
 
 📍 Addis Ababa, Ethiopia · Applied AI · Full-stack engineering · Inclusive tech education
 
-</div>
 
 ---
 
@@ -75,10 +70,7 @@ Developing AI-enabled applications with maintainable architecture and intuitive 
 
 ---
 
-<div align="center">
-
 **Have a product idea, engineering opportunity, or project to collaborate on?**
 
 [Portfolio](https://getachewekubay.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/getachewekubay/) · [Email](mailto:getachewekubay8@gmail.com)
 
-</div>
